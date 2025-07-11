@@ -1,0 +1,286 @@
+[03-Jun-2025 14:48:35 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[03-Jun-2025 14:48:37 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:36 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:37 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:37 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:39 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:39 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:40 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:40 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:41 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:43 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:49:51 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:50:27 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:51:17 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:54:52 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:57:03 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 21:58:16 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 22:01:17 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 22:01:19 Europe/Berlin] Database setup failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[06-Jun-2025 22:04:35 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:04:35 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:04 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:04 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:10 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:10 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:30 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:06:30 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:15:30 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:15:30 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:16:26 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:16:26 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:18:22 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:18:22 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:18:39 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:18:39 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:19:54 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:19:54 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:19:54 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:20:38 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:20:38 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:38 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:20:46 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:20:46 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:46 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:20:48 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:20:48 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:20:48 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:22:18 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:22:18 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:22:18 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:22:22 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:22:22 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:22:22 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: -- MariaDB dump 10.19  Distrib 10.4.32-MariaDB, for Win64 (AMD64)
+--
+-- Host: localhost    Database: udm_class_record_db
+-- ------------------------------------------------------
+-- Server version	10.4.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40101 SET NAMES utf8mb4 */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40103 SET TIME_ZONE='+00:00' */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */
+[06-Jun-2025 22:24:04 Europe/Berlin] Executing: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
+[06-Jun-2025 22:24:04 Europe/Berlin] Error executing SQL query: --
+-- Current Database: `udm_class_record_db`
+--
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `udm_class_record_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ - SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[06-Jun-2025 22:24:04 Europe/Berlin] Database setup failed: SQLSTATE[HY000]: General error: 1 near "DATABASE": syntax error
+[07-Jun-2025 01:34:16 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:34:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:34:25 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:34:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:34:37 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:34:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:36:14 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:36:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:37:11 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:37:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:40:37 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
+[07-Jun-2025 01:40:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\Users\marvi\Desktop\final\UDM IntelliGrade\www\public\login.php on line 14
